@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Satyak&#39;s Portfolio</title>
+    <link>http://demo.gethugothemes.com/kross/categories/</link>
+    <description>Recent content in Categories on Satyak&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://demo.gethugothemes.com/kross/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Classification</title>
+      <link>http://demo.gethugothemes.com/kross/categories/classification/</link>
+      <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://demo.gethugothemes.com/kross/categories/classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regression</title>
+      <link>http://demo.gethugothemes.com/kross/categories/regression/</link>
+      <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://demo.gethugothemes.com/kross/categories/regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recommendation</title>
+      <link>http://demo.gethugothemes.com/kross/categories/recommendation/</link>
+      <pubDate>Thu, 12 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://demo.gethugothemes.com/kross/categories/recommendation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NLP</title>
+      <link>http://demo.gethugothemes.com/kross/categories/nlp/</link>
+      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://demo.gethugothemes.com/kross/categories/nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kaggle</title>
+      <link>http://demo.gethugothemes.com/kross/categories/kaggle/</link>
+      <pubDate>Sat, 12 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://demo.gethugothemes.com/kross/categories/kaggle/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

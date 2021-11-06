@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Classification on Satyak&#39;s Portfolio</title>
+    <link>http://demo.gethugothemes.com/kross/categories/classification/</link>
+    <description>Recent content in Classification on Satyak&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://demo.gethugothemes.com/kross/categories/classification/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Telecom Customer Churn Prediction</title>
+      <link>http://demo.gethugothemes.com/kross/portfolio/project-9/</link>
+      <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://demo.gethugothemes.com/kross/portfolio/project-9/</guid>
+      <description>Project Summary Predicting which customer will most likely leave the network in advance will help the network provider to provide them with proper plans that will make them happy.</description>
+    </item>
+    
+    <item>
+      <title>Credit Card Fraud Detection</title>
+      <link>http://demo.gethugothemes.com/kross/portfolio/project-1/</link>
+      <pubDate>Sat, 12 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://demo.gethugothemes.com/kross/portfolio/project-1/</guid>
+      <description>Project Summary The dataset contains transactions made by credit cards in September 2013 by European cardholders.</description>
+    </item>
+    
+    <item>
+      <title>Iris Flower Species Prediction</title>
+      <link>http://demo.gethugothemes.com/kross/portfolio/project-3/</link>
+      <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://demo.gethugothemes.com/kross/portfolio/project-3/</guid>
+      <description>Project Summary The Iris flower data set is a multivariate data set introduced by the British statistician and biologist Ronald Fisher in his 1936 paper The use of multiple measurements in taxonomic problems.</description>
+    </item>
+    
+    <item>
+      <title>Titanic Survival Prediction</title>
+      <link>http://demo.gethugothemes.com/kross/portfolio/project-7/</link>
+      <pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://demo.gethugothemes.com/kross/portfolio/project-7/</guid>
+      <description>Project Summary The sinking of the Titanic is one of the most infamous shipwrecks in history.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NLP on Satyak&#39;s Portfolio</title>
+    <link>http://demo.gethugothemes.com/kross/categories/nlp/</link>
+    <description>Recent content in NLP on Satyak&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://demo.gethugothemes.com/kross/categories/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Twitter Sentiment Analysis</title>
+      <link>http://demo.gethugothemes.com/kross/portfolio/project-6/</link>
+      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://demo.gethugothemes.com/kross/portfolio/project-6/</guid>
+      <description>Project Summary The task is to build a model that will determine the tone (neutral, positive, negative) of the text.</description>
+    </item>
+    
+  </channel>
+</rss>

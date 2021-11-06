@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Regression on Satyak&#39;s Portfolio</title>
+    <link>http://demo.gethugothemes.com/kross/categories/regression/</link>
+    <description>Recent content in Regression on Satyak&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://demo.gethugothemes.com/kross/categories/regression/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flight Fare Prediction</title>
+      <link>http://demo.gethugothemes.com/kross/portfolio/project-8/</link>
+      <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://demo.gethugothemes.com/kross/portfolio/project-8/</guid>
+      <description>Project Summary Flight ticket prices can be something hard to guess, today we might see a price, check out the price of the same flight tomorrow, it will be a different story.</description>
+    </item>
+    
+    <item>
+      <title>House Price Prediction</title>
+      <link>http://demo.gethugothemes.com/kross/portfolio/project-2/</link>
+      <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://demo.gethugothemes.com/kross/portfolio/project-2/</guid>
+      <description>Project Summary Ask a home buyer to describe their dream house, and they probably won&amp;rsquo;t begin with the height of the basement ceiling or the proximity to an east-west railroad.</description>
+    </item>
+    
+    <item>
+      <title>Hotel Booking Prediction</title>
+      <link>http://demo.gethugothemes.com/kross/portfolio/project-4/</link>
+      <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://demo.gethugothemes.com/kross/portfolio/project-4/</guid>
+      <description>Project Summary This data set contains booking information for a city hotel and a resort hotel, and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things.</description>
+    </item>
+    
+  </channel>
+</rss>
